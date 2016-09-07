@@ -1,0 +1,6 @@
+Read the file.
+Store the file into a file variable.
+Read each line
+Find the number of characters of code for string literals and store the value into a variable code character
+Find the number of characters in memory for the values of the strings and store the value into a memory character
+Subtract memory character and code character and print the result.
